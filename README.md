@@ -25,5 +25,7 @@ $ roslaunch slam_project rviz.launch
 ```
 
 
+![Alt text](./images/kitchen-RTAP.png?raw=true "Title")
 
 
+![Alt text](./images/kitchen-rviz.png?raw=true "Title")
